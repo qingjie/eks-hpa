@@ -1,0 +1,22 @@
+{
+    "name": "express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/qingjie/eks-hpa.git"
+    },
+    "author": "Qingjie Zhao",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/qingjie/eks-hpa/issues"
+    },
+    "homepage": "https://github.com/qingjie/eks-hpa#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
